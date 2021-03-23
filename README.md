@@ -6,7 +6,7 @@
 
 [![Kimo's github stats](https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ANL0KE)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy1709&layout=compact&theme=cobalt)](https://github.com/sandy1709)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANL0KE&layout=compact&theme=cobalt)](https://github.com/ANL0KE)
 <!--
 **ANL0KE/ANL0KE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
