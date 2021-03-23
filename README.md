@@ -6,7 +6,6 @@
 
 [![Kimo's github stats](https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ANL0KE)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANL0KE&layout=compact&theme=cobalt)](https://github.com/ANL0KE)
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANL0KE&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ANL0KE" /></p>
 
