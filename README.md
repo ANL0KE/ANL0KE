@@ -4,10 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANL0KE&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Kimo's github stats](https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ANL0KE)
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANL0KE&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ANL0KE" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=tokyonight&locale=en" alt="ANL0KE" /></p>
 
 **ANL0KE/ANL0KE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANL0KE&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ANL0KE" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=tokyonight&locale=en" alt="ANL0KE" /></p>
