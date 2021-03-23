@@ -1,6 +1,8 @@
 ## Hi there I'm kimo 🖤❕.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANL0KE&label=Profile%20views&color=0e75b6&style=plastic" alt="ANL0KE" /> </p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANL0KE&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
