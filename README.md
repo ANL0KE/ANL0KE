@@ -44,4 +44,3 @@
 [telegram]: https://t.me/NIIIN2
 [instagram]: https://instagram.com/r4akr
 
-<img align="right" width="200" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
