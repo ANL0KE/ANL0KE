@@ -19,15 +19,15 @@
 
 ### _Connect with me 📱:_
 
-[<img align="left" alt="ANL0KE | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img align="left" alt="ANL0KE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ANL0KE | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][instagram] 
+[<img align="left" alt="ANL0KE | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][telegram]
 
 <br />
 
 ### _Language and Tool 👨🏻‍💻:_
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Python" width="45px" src="https://img.icons8.com/nolan/96/python.png" />
+<img align="left" alt="GitHub" width="45px" src="https://img.icons8.com/nolan/120/github.png" />
 
 <br />
 <br />
