@@ -19,8 +19,8 @@
 
 ### _Connect with me 📱:_
 
-[<img align="left" alt="ANL0KE | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][instagram] 
-[<img align="left" alt="ANL0KE | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][telegram]
+[<img align="left" alt="ANL0KE | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][telegram] 
+[<img align="left" alt="ANL0KE | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][instagram]
 
 <br />
 
