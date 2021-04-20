@@ -37,10 +37,11 @@
 
 <details>
   <summary>𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 ⚜️:</summary>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ANL0KE&theme=material-palenight" alt="ANL0KE" /></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=material-palenight&locale=en" alt="ANL0KE" /></p>
 </details>
 
-
+---
 [telegram]: https://t.me/NIIIN2
 [instagram]: https://instagram.com/r4akr
 
