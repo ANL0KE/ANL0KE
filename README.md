@@ -42,7 +42,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANL0KE&show_icons=true&theme=material-palenight&locale=en" alt="ANL0KE" /></p>
 </details>
 
----
 [telegram]: https://t.me/NIIIN2
 [instagram]: https://instagram.com/r4akr
 
