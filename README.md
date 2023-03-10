@@ -1,4 +1,4 @@
-### 𓍹 _Welcome to my profile _ 𓍻
+### 𓍹 __Welcome to my profile__ 𓍻
 
 ---
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANL0KE%2Fhit-counter&count_bg=%23C592CB&title_bg=%23171717&icon=&icon_color=%23AE8BB2&title=Profile+views&edge_flat=false"/></a> 
